@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning new skills towards full stack development
 - 💞️ I’m looking to collaborate on  developent and designing projects
 
+![bg](https://github.com/prathamd123/prathamd123/assets/84966285/8517487a-4b8f-4e1b-bd1c-e447676e8935)
 
 <!---
 prathamd123/prathamd123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
