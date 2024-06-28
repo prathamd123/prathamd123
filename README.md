@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 👯 I’m looking to collaborate on **new projects**
+- 👯 I’m looking to collaborate on **new projects**.
 
 - 📫 How to reach me **prathamdevatwal0@gmail.com**
 
