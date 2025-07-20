@@ -13,10 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamd123&label=Profile%20views&color=0e75b6&style=flat" alt="prathamd123" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
-
-- 👯 I’m looking to collaborate on **new projects**.
-
 - 📫 How to reach me **prathamdevatwal0@gmail.com**
 
 
