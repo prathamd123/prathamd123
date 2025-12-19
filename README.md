@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <!-- <h1 align="center">Hi 👋, I'm Pratham</h1> -->
 <h3 align="center">A passionate Fullstack developer from India.</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prathamd123)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prathamd123&theme=dark)](https://git.io/streak-stats)
 - 📫 How to reach me **prathamdevatwal0@gmail.com**
 
 
