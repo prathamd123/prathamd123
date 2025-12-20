@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 <!-- <h1 align="center">Hi 👋, I'm Pratham</h1> -->
 <h3 align="center">A passionate Fullstack developer from India.</h3>
 
-  <a align="center" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="prathamd123's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/prathamd123?cardType=level&preferLogin=false" />  </a>
-
 - 📫 How to reach me **prathamdevatwal0@gmail.com**
 
 
