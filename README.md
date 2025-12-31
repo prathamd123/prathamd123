@@ -2,7 +2,7 @@
 
 ![bhf1](https://github.com/prathamd123/prathamd123/assets/84966285/c38a03d8-f417-4b9a-a0ed-e65791039ab2)
 
-
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=prathamd123)](https://git.io/streak-stats)
 
 <!---
 prathamd123/prathamd123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
