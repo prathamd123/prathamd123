@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <p align="center">
-  <img alt="Pratham Devatwal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamd123&langs_count=5&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&&text_color=efefef"/>
+  <img alt="Pratham Devatwal's Top Languages" src="https://streak-stats.demolab.com?user=prathamd123"/>
 <p/>
 
 </details>
