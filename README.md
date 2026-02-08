@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <p align="center">
-  <img alt="Pratham Devatwal's Top Languages" src="https://streak-stats.demolab.com?user=prathamd123"/>
+  <!-- <img alt="Pratham Devatwal's Top Languages" src="https://streak-stats.demolab.com?user=prathamd123"/> -->
 <p/>
 
 </details>
